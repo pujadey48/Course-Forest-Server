@@ -1,0 +1,68 @@
+[
+    {
+      "_id": "1",
+      "title":"React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "thumbnail_url": "https://www.freecodecamp.org/news/content/images/2021/02/React-js-1.png",
+      "image_url": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+      "details": "Build powerful, fast, user-friendly and reactive web apps\r\nProvide amazing user experiences by leveraging the power of JavaScript with ease\r\n Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now\r\n Learn all about React Hooks and React Components",
+      "price": "$16.99"
+    },
+    {
+        "_id": "2",
+        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "thumbnail_url": "https://st2.depositphotos.com/4103319/6275/i/950/depositphotos_62755699-stock-photo-js-square-icon-on-white.jpg",
+        "image_url": "https://www.freecodecamp.org/news/content/images/2022/02/header.png",
+        "details": "Become an advanced, confident, and modern JavaScript developer from scratch\r\nBuild 6 beautiful real-world projects for your portfolio (not boring toy apps)\r\nBecome job-ready by understanding how JavaScript really works behind the scenes\r\nHow to think and work like a developer: problem-solving,researching, workflows",
+        "price": "$16.99"
+      },
+      {
+        "_id": "3",
+        "title":"2022 Complete Python Bootcamp From Zero to Hero in Python",
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "thumbnail_url": "https://mpng.subpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg",
+        "image_url": "https://images.ctfassets.net/nx13ojx82pll/6rrYn0SyqN6Fz94U49Sqh5/7cf22f44c1fdc91da9632353a9709c08/command-injection-python-img-1.jpeg?w=1024&h=512&fl=progressive&q=80&fm=jpg",
+        "details": "You will learn how to leverage the power of Python to solve tasks.\r\nYou will build games and programs that use Python libraries.\r\nYou will be able to use Python for your own work problems or personal projects.\r\nYou will create a portfolio of Python based projects you can share.",
+        "price": "$16.99"
+      },
+      {
+        "_id": "4",
+        "title":"Microsoft Excel - Excel from Beginner to Advanced",
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "thumbnail_url": "https://t.ctcdn.com.br/4qEeGbc8a6G4p-eB9Isc2FaqRr4=/512x288/smart/filters:format(webp)/i11399.jpeg",
+        "image_url": "https://www.lifewire.com/thmb/F49EFo0sfaK4O-8tpghAtPgRxsA=/1139x759/filters:fill(auto,1)/Excel-5a69088b642dca001a3b6a53-67a5debc88d3421891dbdc84dd30187d.jpg",
+        "details": "Master Microsoft Excel from Beginner to Advanced\r\nBuild a solid understanding on the Basics of Microsoft Excel\r\nLearn the most common Excel functions used in the Office\r\nHarness the full power of Microsoft Excel by automating your day to day tasks through Macros and VBA",
+        "price": "$16.99"
+      },
+      {
+        "_id": "5",
+        "title":"Angular - The Complete Guide (2022 Edition)",
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "thumbnail_url": "https://pluralsight2.imgix.net/paths/images/angular-14a0f6532f.png",
+        "image_url": "https://resources.jetbrains.com/help/img/idea/2022.2/ws_angular_navigate_between_components_dark.png",
+        "details": "Develop modern, complex, responsive and scalable web applications with Angular 14\r\nFully understand the architecture behind an Angular application and how to use it\r\nUse the gained, deep understanding of the Angular fundamentals to quickly establish yourself as a frontend developer\r\nCreate single-page applications with one of the most modern JavaScript frameworks out there",
+        "price": "$16.99"
+      },
+      {
+        "_id": "6",
+        "title":"Build Responsive Real-World Websites with HTML and CSS",
+        "category_id": "06",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "thumbnail_url": "https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png",
+        "image_url": "https://fronty.com/static/uploads/Converting_Image_to_HTML_CSS.jpg",
+        "details": "Become a modern and confident HTML and CSS developer, no prior knowledge needed!\r\nDesign and build a stunning real-world project for your portfolio from scratch\r\nModern, semantic and accessible HTML5\r\nModern CSS (previous CSS3), including flexbox and CSS Grid for layout",
+        "price": "$16.99"
+      }
+]

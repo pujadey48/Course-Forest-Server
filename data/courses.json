@@ -1,7 +1,8 @@
 [
     {
       "_id": "1",
-      "title":"React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "title":"React",
+      "name":"React - The Complete Guide (incl Hooks, React Router, Redux)",
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
@@ -12,7 +13,8 @@
     },
     {
         "_id": "2",
-        "title":"The Complete JavaScript Course 2022: From Zero to Expert!",
+        "title":"JavaScript",
+        "name":"The Complete JavaScript Course 2022: From Zero to Expert!",
         "category_id": "02",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
@@ -23,7 +25,8 @@
       },
       {
         "_id": "3",
-        "title":"2022 Complete Python Bootcamp From Zero to Hero in Python",
+        "title":"Python",
+        "name":"2022 Complete Python Bootcamp From Zero to Hero in Python",
         "category_id": "03",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
@@ -34,7 +37,8 @@
       },
       {
         "_id": "4",
-        "title":"Microsoft Excel - Excel from Beginner to Advanced",
+        "title":"Microsoft Excel",
+        "name":"Microsoft Excel - Excel from Beginner to Advanced",
         "category_id": "04",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
@@ -45,7 +49,8 @@
       },
       {
         "_id": "5",
-        "title":"Angular - The Complete Guide (2022 Edition)",
+        "title":"Angular",
+        "name":"Angular - The Complete Guide (2022 Edition)",
         "category_id": "05",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
@@ -56,7 +61,8 @@
       },
       {
         "_id": "6",
-        "title":"Build Responsive Real-World Websites with HTML and CSS",
+        "title":"HTML & CSS",
+        "name":"Build Responsive Real-World Websites with HTML and CSS",
         "category_id": "06",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,

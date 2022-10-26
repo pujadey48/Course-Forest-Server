@@ -18,7 +18,11 @@ app.get('/allCourses',(req, res) =>{
 app.get('/courses/:id',(req, res) =>{
     const id = req.params.id;
     const course = courses.find(n => n._id === id);
-    res.send(course);
+    if(course){
+        res.send(course);
+    } else {
+        res.send({err_msg:"No data found with id : " + id});
+    }
 });
 
 app.listen(Port,()=>{
